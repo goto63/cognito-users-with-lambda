@@ -1,0 +1,16 @@
+{
+  "name": "cognito-usrs-with-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsonwebtoken": "^7.1.9",
+    "jwk-to-pem": "^1.2.5",
+    "request": "^2.78.0"
+  }
+}
